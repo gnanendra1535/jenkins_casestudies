@@ -1,5 +1,5 @@
 pipeline {
-  // We’ll run different stages on different labeled agents
+  // We’ll run different stages on different labeled agents...
   agent none
 
   options {
